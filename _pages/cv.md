@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
++* B.S. in Islamic Studies, Marmara University, 2018
++* M.A. in Sociology, Marmara University, 2020
++* M.A. in Near Eastern Studies, New York University, 2023
++* Ph.D in Sociology, University of Colorado, 2029 (expected)
 
 Work experience
 ======
