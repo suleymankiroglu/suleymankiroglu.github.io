@@ -11,36 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in Islamic Studies, Marmara University, 2018
-* M.A. in Sociology, Marmara University, 2020
-* M.A. in Near Eastern Studies, New York University, 2023
 * Ph.D in Sociology, University of Colorado, 2029 (expected)
+* M.A. in Near Eastern Studies, New York University, 2023
+* M.A. in Sociology, Marmara University, 2020
+* B.S. in Islamic Studies, Marmara University, 2018
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Foreign Policy Research Institute (FPRI)
+  * Research Assistant
+  * February 2023- August 2023
+  * Philadelphia, PA
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* ISAM-Center for Islamic Studies
+  * Research Assistant
+  * September 2020- August 2021
+  * Istanbul, Turkey
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* STATA
+* ArcGIS
+
 
 Publications
 ======
@@ -59,7 +52,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
