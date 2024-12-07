@@ -21,7 +21,7 @@ repository               : "suleymankiroglu/suleymankiroglu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pp.png"
+  avatar           : "pp.jpeg"
   name             : "Suleyman Kiroglu"
   pronouns         : # example: "she/her"  
   bio              : "I am a PhD student in Sociology at CU Boulder"
