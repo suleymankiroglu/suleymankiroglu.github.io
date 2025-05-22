@@ -21,7 +21,7 @@ Research experience
 * Foreign Policy Research Institute (FPRI)
   * Research Assistant
   * February 2023- August 2023
-  * Philadelphia, P
+  * Philadelphia, PA
 
 * ISAM-Center for Islamic Studies
   * Research Assistant
