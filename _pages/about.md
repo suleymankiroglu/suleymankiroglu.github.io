@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Süleyman Kıroğlu, a PhD student in Sociology at [the University of Colorado Boulder](https://www.colorado.edu/sociology/suleyman-kiroglu). My research focuses on immigration, political sociology, and urban sociology, with a special interest in transnational networks, migrant communities, and computational social science.
+I’m Süleyman Kıroğlu, a PhD student in Sociology at [the University of Colorado Boulder](https://www.colorado.edu/sociology/suleyman-kiroglu). My research focuses on immigration, political sociology, and urban sociology, with a special interest in transnational networks, migrant communities, and computational social science
 
 With an academic background that spans multiple disciplines and institutions, including an M.A. in Near Eastern Studies from [New York University](https://as.nyu.edu/research-centers/neareaststudies/people/Students112.html) and an M.A. in Sociology from [Marmara University](https://soc-fef.marmara.edu.tr/en), my work aims to bridge local and global perspectives on migration and political representation. My publications include research on hometown associations and organizational cohesion among internal migrants, featured in [Turkish Studies](https://www.tandfonline.com/doi/full/10.1080/14683849.2024.2340497).
 
