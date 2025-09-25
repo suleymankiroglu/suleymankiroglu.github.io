@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "introsocphoto.png"
+  avatar           : "/images/introsocphoto.png"
   name             : "Suleyman Kiroglu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
